@@ -1,0 +1,24 @@
+/* Predefined color names */
+#a{
+    color:red;
+}
+/* RGB */
+#b{
+    color:rgb(58, 125, 4);
+}
+/* RGBA */
+#c{
+    color:rgb(58, 125, 4,0.5);
+}
+/* Hexadecimal */
+#d{
+    color:#240275;
+}
+/* HSL */
+#e{
+    color:hsl(40,100%,50%);
+}
+/* HSLA */
+#f{
+    color:hsl(40,100%,50%,0.5);
+}
