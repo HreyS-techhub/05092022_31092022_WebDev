@@ -1,0 +1,38 @@
+h1{
+    font-size: larger;
+    font-weight: lighter;
+    font-style: italic;
+    font-variant: normal;
+    font-family: 'Dancing Script', cursive;
+    /* Short Hand Property */
+    /* style variant weight size family */
+    font:italic small-caps 500 50px 'Noto Sans', sans-serif;
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+}
+#text{
+    border: 1px solid black;
+    /* width:200px;
+    height: 30px; */
+    color:blue;
+    text-align: justify;
+    text-align-last: right;
+    text-transform: lowercase;
+    text-decoration: underline line-through;
+}
+h2{
+    font-size: 25px;
+    text-decoration: underline overline;
+    text-decoration-color: aquamarine;
+    text-decoration-style: wavy;
+    font-family: 'Dancing Script', cursive;
+}
+
+span{
+    font-size: 25px;
+    text-decoration: underline overline;
+    text-decoration-color: aquamarine;
+    text-decoration-style: wavy;
+    font-family: 'Dancing Script', cursive;
+}
